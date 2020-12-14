@@ -680,28 +680,5 @@ p{
     padding: 10px;
 }
 
-/* ----------------------Teacher-----------------*/
-.heroT{
-    background:url(../img/about.jpg) no-repeat;
-       background-size:cover;
-        height:100%;
-       width: 100%;
-       font-size: 20px;
-       margin: 20px 0;
-     
-       background-position: center;}
-   
-   .overlayT {
-           margin-left: 750px;
-       font-weight: bold;
-        height: 100%;
-       font-family:sans-serif;
-        border: 50px;
-      
-     
-   }
-   .tt{
-       font-size: 25px;
-       color: darkblue;
-   }
+
    
